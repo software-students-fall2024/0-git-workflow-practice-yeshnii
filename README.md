@@ -9,3 +9,6 @@
     <br>
     I also found the article’s exploration of the the API economy interesting since I’ve utilized API’s like Google Maps API and OpenAI in past side projects. I like using API since it gives regular people access to immensely powerful technologies, and lets them experiment with them. Furthermore, I am curious to learn more about how the API Economy will create a drive towards more event-driven architecture. I also think it is interesting that websites/applications are going to have to be Mobile First. I am curious to find out how this changes design when most languages & resources were originally built to support traffic from laptops rather than small mobile devices.
 <br>
+
+### Wenli Shi's commit on this work:
+<br>The article emphasizes the rise of low code/no code platforms. As someone aspiring to be a software engineer, the author has mixed feelings about coding becoming more accessible since it could reduce the demand for software engineers. However, the trend is also exciting because it enables younger people to create websites and apps more easily.<br>
